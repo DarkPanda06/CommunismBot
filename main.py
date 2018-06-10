@@ -195,4 +195,4 @@ async def anthem(ctx):
         await client.send_message(ctx.message.channel, 'I only have one voice, capitalist pig!')
 
 
-client.run('NDQxNzQwMTc3MzU1MDQ2OTIz.Dc0tgA.Vh3eVXDmjk6Zwwk2k1x0KaaVFbY')
+client.run()
